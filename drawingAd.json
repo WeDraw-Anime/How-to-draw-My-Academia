@@ -8,7 +8,7 @@
     "AdMob_InterstitialAd"   : "ca-app-pub-3071522790697118/9846977921",
     "AdMob_RewardAd"         : "ca-app-pub-3071522790697118/4594651241",
     "AdMob_OpenAd"           : "ca-app-pub-3071522790697118/1968487906",
-    "OpenAd_status"          : false ,
+    "OpenAd_status"          : true ,
 
     "Facebook_Banner"        : "165992672903167_166003946235373",
     "Facebook_InterstitialAd": "165992672903167_166003989568702",
